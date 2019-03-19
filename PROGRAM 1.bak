@@ -1,0 +1,13 @@
+#include <conio.h>
+#include <iostream.h>
+void main()
+{
+	clrscr();
+   cout<<"It is my first c++ program\N";
+   cout<<"I am sure that I will be familiar with this";
+   cout<<"----------------------------\N";
+   getch();
+}
+
+perbedaannya:
+yang pertama bisa run namun yang kedua tidak bisa run dikarenakan huruf besar !
